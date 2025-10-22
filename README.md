@@ -1,7 +1,8 @@
 #  App de Saludo Interactiva - Documentación
 # ESTUDIANTE: Brayan Quispe Mamani
 
-## Descripción de la App![alt text](image-3.png) , ![alt text](image-4.png)
+## Descripción de la App
+![alt text](image-3.png) , ![alt text](image-4.png)
 Una aplicación Flutter moderna y atractiva que ofrece una experiencia de bienvenida interactiva con animaciones GIF. La app guía al usuario a través de una pantalla de inicio con un mensaje de bienvenida y lo lleva a una pantalla de regalo sorpresa con animaciones divertidas.
 
 ### ✨ Características Principales
